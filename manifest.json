@@ -8,7 +8,7 @@
   "scope": "/",
   "short_name": "AutoBet",
   "start_url": "/",
-  "theme_color": "#062E62",
+  "theme_color": "#000000",
   "categories": [
     "entertainment",
     "games",
